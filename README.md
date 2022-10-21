@@ -1,1 +1,0 @@
-# Intro_MsSql_EF_for_Windows
